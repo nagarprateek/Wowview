@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore other sensitive or unnecessary files
+.DS_Store
+*.log
